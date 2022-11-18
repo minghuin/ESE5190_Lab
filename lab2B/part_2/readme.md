@@ -18,4 +18,12 @@ b. Secondly, after the address and mask has been obtained by the REPL, both the 
 
 c. Finally, after the writing content has been input, the REPL will write the value directly to the register address we typed. What needs to be mentioned specifically is that some registers don't allow bitwise operation. These registers are treated differently by 32-bit whole register writing. Other registers are operated bitwisely based on the mask.
 
-(3) Based on the requirement of the part 4, I have just changed the REPL output to the transition only. That means that the REPL will print the register value only when the value in the register changes.
+(3) Based on the requirement of the part 4, I have just changed the REPL output to the transition only and this will be shown in the part 6. That means that the REPL will print the register value only when the value in the register changes.
+
+
+
+Examples:
+
+[Read Example](https://github.com/minghuin/ESE5190_Lab/blob/main/lab2B/part_2/part2-REPL-read.gif)
+
+[Write Example](https://github.com/minghuin/ESE5190_Lab/blob/main/lab2B/part_2/part2-REPL-write.gif)

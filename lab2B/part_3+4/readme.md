@@ -19,3 +19,4 @@ PS: the saved JSON format can be used as a user command.
 
 Part 4: output rate adjustment
 
+[Example Recorded Data](https://github.com/minghuin/ESE5190_Lab/blob/main/lab2B/part_3%2B4/part3-recorded-data-format.png)
