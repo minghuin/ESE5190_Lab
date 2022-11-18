@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ncm656112/ESE519_Lab/github_local/ESE5190_Lab/lab2B/part_9/lab_on_a_chip/CMakeFiles/ELF2UF2Build"
+		},
+		{
+			"file" : "/home/ncm656112/ESE519_Lab/github_local/ESE5190_Lab/lab2B/part_9/lab_on_a_chip/CMakeFiles/ELF2UF2Build.rule"
+		},
+		{
+			"file" : "/home/ncm656112/ESE519_Lab/github_local/ESE5190_Lab/lab2B/part_9/lab_on_a_chip/CMakeFiles/ELF2UF2Build-complete.rule"
+		},
+		{
+			"file" : "/home/ncm656112/ESE519_Lab/github_local/ESE5190_Lab/lab2B/part_9/lab_on_a_chip/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule"
+		},
+		{
+			"file" : "/home/ncm656112/ESE519_Lab/github_local/ESE5190_Lab/lab2B/part_9/lab_on_a_chip/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule"
+		},
+		{
+			"file" : "/home/ncm656112/ESE519_Lab/github_local/ESE5190_Lab/lab2B/part_9/lab_on_a_chip/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule"
+		},
+		{
+			"file" : "/home/ncm656112/ESE519_Lab/github_local/ESE5190_Lab/lab2B/part_9/lab_on_a_chip/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule"
+		},
+		{
+			"file" : "/home/ncm656112/ESE519_Lab/github_local/ESE5190_Lab/lab2B/part_9/lab_on_a_chip/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule"
+		},
+		{
+			"file" : "/home/ncm656112/ESE519_Lab/github_local/ESE5190_Lab/lab2B/part_9/lab_on_a_chip/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule"
+		},
+		{
+			"file" : "/home/ncm656112/ESE519_Lab/github_local/ESE5190_Lab/lab2B/part_9/lab_on_a_chip/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ELF2UF2Build"
+		],
+		"name" : "ELF2UF2Build"
+	}
+}

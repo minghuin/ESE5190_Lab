@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/common",
+		"source" : "/home/ncm656112/ESE519_Lab/pico/pico-sdk/src/common"
+	}
+}
