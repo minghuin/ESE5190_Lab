@@ -56,7 +56,7 @@ This function read the data by utilizing the functions of `pio_i2c_read_blocking
 
 
 
-Finally, we could use of main function to read data from the APDS9960 and print the data in the console as below:
+Finally, we could use of main function to read data from the APDS9960 and print the data in the console as the gif [here](https://github.com/minghuin/ESE5190_Lab/blob/main/lab2B/part_8/part8.gif)
 
 
 
