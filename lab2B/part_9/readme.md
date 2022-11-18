@@ -4,16 +4,16 @@ In this part, based on the APDS reading program implemented in part 8, we delive
 
 
 
-Here are the console output in different scenario:
+Here are the console outputs and the the neopixel reactions in different scenario:
 
-Red
+[Red](https://github.com/minghuin/ESE5190_Lab/blob/main/lab2B/part_9/red.jpg)
 
-Red Console
+[Red Console](https://github.com/minghuin/ESE5190_Lab/blob/main/lab2B/part_9/red_console.png)
 
-Green
+[Green](https://github.com/minghuin/ESE5190_Lab/blob/main/lab2B/part_9/green.jpg)
 
-Green Console
+[Green Console](https://github.com/minghuin/ESE5190_Lab/blob/main/lab2B/part_9/green_console.png)
 
-Blue
+[Blue](https://github.com/minghuin/ESE5190_Lab/blob/main/lab2B/part_9/blue.jpg)
 
-Blue Console
+[Blue Console](https://github.com/minghuin/ESE5190_Lab/blob/main/lab2B/part_9/blue_console.png)
